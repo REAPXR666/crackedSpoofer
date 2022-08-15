@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\ShitiFivemSpoofer!.exe.config
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\ShitiFivemSpoofer!.exe
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\ShitiFivemSpoofer!.pdb
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiSpoofer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiFivemSpoofer_.Main.resources
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiFivemSpoofer_.Form2.resources
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiFivemSpoofer_.Properties.Resources.resources
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiSpoofer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiSpoofer.csproj.CopyComplete
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiFivemSpoofer!.exe
+C:\Users\User\source\repos\Spoof\ShitiSpoofer!\obj\Debug\ShitiFivemSpoofer!.pdb
